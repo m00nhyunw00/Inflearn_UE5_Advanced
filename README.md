@@ -17,7 +17,7 @@
 ---
 
 ## 🔹 기본 포맷
-<type>(<part>): <subject>
+[type]([part]): [subject]
 
 
 ---
