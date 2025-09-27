@@ -9,3 +9,35 @@
 [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈] Part4: 게임 서버 - https://inf.run/F22WK
 <br>
 [C++과 언리얼로 만드는 MMORPG 게임 개발 시리즈] Part5: UE5 & IOCP 서버 연동 - https://inf.run/ZebUM
+
+# Git Commit Convention
+
+커밋 메시지는 아래 컨벤션을 따를 것
+
+---
+
+## 🔹 기본 포맷
+<type>(<part>): <subject>
+
+
+---
+
+## 🔹 Commit Type
+
+| Type      | 의미 |
+|-----------|------|
+| feat      | 새로운 기능 추가 (Feature) |
+| fix       | 버그 수정 |
+| refactor  | 코드/블루프린트 구조 개선 (기능 변경 없음) |
+| docs      | 문서/주석 작성/수정 |
+| test      | 테스트 코드 추가/수정 |
+| chore     | 빌드/환경 설정, 기타 잡일 |
+| asset     | 머티리얼, 메시, 사운드 등 에셋 추가/수정 (언리얼 전용) |
+| level     | 레벨/맵 수정 (언리얼 전용) |
+| bp        | 블루프린트 수정/추가 (언리얼 전용) |
+| perf      | 성능 최적화 |
+
+---
+
+## 🔹 커밋 메시지 예시
+ feat(1): 01~05강 실습
