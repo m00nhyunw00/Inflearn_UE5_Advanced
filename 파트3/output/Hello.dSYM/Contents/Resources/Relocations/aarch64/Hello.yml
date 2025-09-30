@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/hyunwoomoon/CSE/GitHub/Inflearn_UE5_Advanced/파트3/output/Hello"
+relocations:     []
+...
