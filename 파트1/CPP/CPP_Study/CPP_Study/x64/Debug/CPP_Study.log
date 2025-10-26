@@ -1,2 +1,4 @@
-﻿  17강.cpp
+﻿  21강.cpp
+C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\21강.cpp(43,12): warning C4305: '초기화 중': 'int'에서 'bool'(으)로 잘립니다.
+C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\21강.cpp(44,38): warning C4805: '&': 연산에 'unsigned char' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
   CPP_Study.vcxproj -> C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\x64\Debug\CPP_Study.exe
