@@ -18,7 +18,7 @@ enum MonsterType
 
 struct ObjectInfo
 {
-	int type;
+	int type;  
 	int hp; 
 	int attack;
 	int defence;
