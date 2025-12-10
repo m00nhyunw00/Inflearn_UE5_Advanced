@@ -1,9 +1,2 @@
-﻿  40강.cpp
-C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\40강.cpp(72,2): error C3861: 'PrintInfo': 식별자를 찾을 수 없습니다.
-C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\40강.cpp(74,2): error C3861: 'PrintInfo': 식별자를 찾을 수 없습니다.
-C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\40강.cpp(85,2): error C3861: 'PrintInfo': 식별자를 찾을 수 없습니다.
-C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\40강.cpp(94,12): error C2372: 'pointer': 재정의. 간접 참조 형식이 다릅니다.
-      C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\40강.cpp(84,12):
-      'pointer' 선언을 참조하십시오.
-  
-C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\40강.cpp(95,2): error C3861: 'PrintInfo': 식별자를 찾을 수 없습니다.
+﻿  42강.cpp
+  CPP_Study.vcxproj -> C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\Debug\CPP_Study.exe
