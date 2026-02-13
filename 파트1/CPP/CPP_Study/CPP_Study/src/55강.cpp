@@ -23,7 +23,28 @@ using namespace std;
 // ~Knight를 생성하면 -> Player의 생성자? Knight의 생성자?
 // -> 솔로몬의 선택! 그냥 둘 다 
 
-class Player
+// GameObject
+// - Creature
+// -- Player, Monster, Npc, Pet
+// - Projecttile
+// -- Arrow, Direball
+// - Env
+
+// Item
+// - Weapon
+// -- Sword, Bow
+// - Armor
+// -- Helmet, Boots, Armor
+// - Consumable
+// -- Potion, Scroll
+
+class GameObject
+{
+public:
+	int _objectId;
+};
+
+class Player : public GameObject
 {
 public:
 	Player()
