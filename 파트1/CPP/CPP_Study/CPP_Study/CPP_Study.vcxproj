@@ -19,11 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="src\50강.cpp" />
-    <ClCompile Include="src\Test_51.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="src\Test_51.h" />
+    <ClCompile Include="src\52강.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
