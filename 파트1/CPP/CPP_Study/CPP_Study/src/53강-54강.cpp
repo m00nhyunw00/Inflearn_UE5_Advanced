@@ -126,8 +126,3 @@ int main()
 
 	return 0;
 }
-
-void PrintKnight(Knight knight)
-{
-	cout << "Knight" << endl;
-}
