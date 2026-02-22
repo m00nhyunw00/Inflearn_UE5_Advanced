@@ -1,2 +1,17 @@
-﻿  59강.cpp
-  CPP_Study.vcxproj -> C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\Debug\CPP_Study.exe
+﻿  60-61강.cpp
+C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\60-61강.cpp(142,2): error C2679: 이항 '=': 오른쪽 피연산자로 'Position' 형식을 사용하는 연산자가 없거나 허용되는 변환이 없습니다.
+      C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\60-61강.cpp(74,12):
+      'Position &Position::operator =(Position &)'일 수 있습니다.
+          C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\60-61강.cpp(142,2):
+          'Position &Position::operator =(Position &)': 인수 2을(를) 'Position'에서 'Position &'(으)로 변환할 수 없습니다.
+              C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\60-61강.cpp(142,13):
+              비const 참조는 lvalue에만 바인딩할 수 있습니다.
+      C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\60-61강.cpp(63,12):
+      또는       'Position &Position::operator =(int)'
+          C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\60-61강.cpp(142,2):
+          'Position &Position::operator =(int)': 인수 2을(를) 'Position'에서 'int'(으)로 변환할 수 없습니다.
+              C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\60-61강.cpp(142,13):
+              이 변환을 수행할 수 있는 사용 가능한 사용자 정의 변환 연산자가 없거나 연산자를 호출할 수 없습니다.
+      C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\60-61강.cpp(142,2):
+      인수 목록 '(Position, Position)'을(를) 일치시키는 동안
+  
