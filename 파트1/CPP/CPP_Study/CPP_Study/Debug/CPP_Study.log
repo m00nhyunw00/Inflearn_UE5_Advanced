@@ -1,2 +1,5 @@
-﻿  63-65강.cpp
+﻿  66-70강.cpp
+C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\66-70강.cpp(72,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\66-70강.cpp(84,11): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\CPP_Study\src\66-70강.cpp(27,1): warning C4717: 'Dog::operator Knight': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
   CPP_Study.vcxproj -> C:\Users\MHW\OneDrive\문서\GitHub\Inflearn_UE5_Advanced\파트1\CPP\CPP_Study\Debug\CPP_Study.exe
