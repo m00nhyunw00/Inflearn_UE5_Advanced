@@ -2,7 +2,7 @@
 using namespace std;
 #include <vector>
 
-// 坷疵狼 林力 : vector
+// 坷疵狼 林力 : vector 流立 备泅
 
 template<typename T>
 class Iterator
