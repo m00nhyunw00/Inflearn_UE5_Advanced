@@ -10,7 +10,7 @@ struct Pos
 {
 	bool operator==(Pos& other)
 	{
-		return y == other.y && other.x;
+		return y == other.y && x == other.x;
 	}
 
 	bool operator!=(Pos& other)
@@ -46,8 +46,3 @@ enum Dir
 
 	DIR_COUNT = 4
 };
-
-
-
-
-

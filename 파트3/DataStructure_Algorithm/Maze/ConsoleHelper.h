@@ -5,7 +5,7 @@
 
 enum class ConsoleColor
 {
-	Black = 0,
+	BLACK = 0,
 	RED = FOREGROUND_RED,
 	GREEN = FOREGROUND_GREEN,
 	BLUE = FOREGROUND_BLUE,
